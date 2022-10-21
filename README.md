@@ -36,7 +36,7 @@ A **mission-driven organization** working to solve a **global problem** that **d
 
 I hold a [Micromasters Certificate in Data Science](https://data.billalive.com/certification) from the University of California San Diego. 
 
-Data science lets me bring *all** my major skills to the table: elegant coding, intense intellectual analysis, and finding the compelling stories in this data that can make complex topics understandable to non-experts.
+Data science lets me bring *all* my major skills to the table: elegant **coding**, intense intellectual **analysis**, and finding the compelling **stories** in this data that can make complex topics **understandable** to non-experts.
 
 <br clear="both" />
 
@@ -179,7 +179,7 @@ and the [Writing Craft](https://portfolio.billalive.com/nonfiction/writers).
 My favorite genres: 
 [Mysteries](https://portfolio.billalive.com/fiction/#mystery-novels),
 [Humor](https://portfolio.billalive.com/fiction/#humor),
-[Science Fiction and Fantasy](https://portfolio.billalive.com/ fiction/#science-fiction-and-fantasy),
+[Science Fiction and Fantasy](https://portfolio.billalive.com/fiction/#science-fiction-and-fantasy),
 and [Kids' Books](https://portfolio.billalive.com/fiction/#kids'-books).
 
 <a href="https://portfolio.billalive.com/fiction/#mystery-novels">
@@ -216,8 +216,12 @@ _Note: My real name is **Bill Powell**, but my (favorite) pen name is **Bill Al
 
 <br clear="both" />
 
+<br clear="both" />
 
 > “We have never found anyone who has understood what we wanted...
 > something simple but beautiful... You don’t realize how rare you are!”
 > <cite>Kansas City, Missouri</cite>
 
+## Contact
+
+Contact Bill at `public` [at] `billalive.com`, or use [this form](https://billalive.com/contact/).
