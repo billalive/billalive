@@ -36,7 +36,7 @@ A **mission-driven organization** working to solve a **global problem** that **d
 
 I hold a [Micromasters Certificate in Data Science](https://data.billalive.com/certification) from the University of California San Diego. 
 
-
+Data science lets me bring *all** my major skills to the table: elegant coding, intense intellectual analysis, and finding the compelling stories in this data that can make complex topics understandable to non-experts.
 
 <br clear="both" />
 
@@ -145,10 +145,14 @@ For over 15 years, my company, [Wineskin Websites](https://wineskinwebsites.com)
 
 ### Nonfiction
 
+I love learning, and I love explaining what I learn.
+
+If you need a writer who can make your complex message simple, attractive, and easy to understand, I’m your guy.
+
 My favorite themes: 
 [Tech Writing](https://portfolio.billalive.com/nonfiction/tech-writing), 
 [Memory Improvement](https://portfolio.billalive.com/nonfiction/memory), 
-[On Writing](https://portfolio.billalive.com/nonfiction/writers).
+and the [Writing Craft](https://portfolio.billalive.com/nonfiction/writers).
 
 <a href="https://portfolio.billalive.com/nonfiction/tech-writing">
 <img height="300" align="left" alt="Transform Your Nonprofit's Website" src="images/transform-your-nonprofit-website.jpg" />
@@ -164,6 +168,8 @@ My favorite themes:
 
 <br clear="both" />
 
+<br clear="both" />
+
 > "You are competent and honest and communicate very well  
 > (a rare quality in a techie 🙂)."
 > <cite>Gower, Missouri</cite>
@@ -171,25 +177,26 @@ My favorite themes:
 ### Fiction
 
 My favorite genres: 
-[Mysteries](https://billalive.com/),
-[Humor](https://billalive.com/),
-[Science Fiction and Fantasy](https://billalive.com/),
-and [Kids' Books](https://billalive.com/).
+[Mysteries](https://portfolio.billalive.com/fiction/#mystery-novels),
+[Humor](https://portfolio.billalive.com/fiction/#humor),
+[Science Fiction and Fantasy](https://portfolio.billalive.com/ fiction/#science-fiction-and-fantasy),
+and [Kids' Books](https://portfolio.billalive.com/fiction/#kids'-books).
 
-<a href="https://billalive.com/">
+<a href="https://portfolio.billalive.com/fiction/#mystery-novels">
 <img height="300" align="left" alt="Mysteries" src="images/mfa.jpg" />
 </a>
 
-<a href="https://billalive.com/">
+<a href="https://portfolio.billalive.com/fiction/#humor">
 <img height="300" align="left" alt="Humor" src="images/rsw-1.png" />
 </a>
 
-<a href="https://billalive.com/">
+<a href="https://portfolio.billalive.com/fiction/#kids'-books">
 <img height="300" align="left" alt="Kids" src="images/how-talk-rock.png" />
 </a>
 
 <br clear="both" />
 
+<br clear="both" />
 
 _Note: My real name is **Bill Powell**, but my (favorite) pen name is **Bill Alive**._
 
