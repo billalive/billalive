@@ -220,6 +220,7 @@ I’ve been taking care of my clients for over 15 years. Turns out, solving comp
 <img height="200" align="left" alt="Community" src="https://picsum.photos/id/441/200/200" />
 </a>
 
+<br clear="both" />
 
 ## Contact
 
