@@ -126,12 +126,9 @@ A Python command-line tool.
 
 For **over 15 years**, my company, [Wineskin Websites](https://wineskinwebsites.com), has served non-profits and small businesses. 
 
-<blockquote>
-<p>
-“Heartfelt thanks to Bill Powell… who developed this website and with infinite patience and contagious enthusiasm taught [us] to maintain it ourselves.”
-</p>
-<cite>Traverse City, Michigan</cite>
-</blockquote>
+> “Heartfelt thanks to Bill Powell… who developed this website and with infinite patience and contagious enthusiasm taught [us] to maintain it ourselves.”
+
+> <cite>Traverse City, Michigan</cite>
 
 
 <br clear="both" />
