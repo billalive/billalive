@@ -2,7 +2,7 @@
 
 ## A Rare Intersection of Skills
 
-Coding? Writing? Data Science? I offer you the complete package. Do you need:
+Writing? Coding? Data Science? I offer you the complete package. Do you need:
 
 - A **data scientist** who can also tell a **compelling story?**
 - A **technical writer** who can also **code?**
