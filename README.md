@@ -56,6 +56,8 @@ I've published [several reports](https://data.billalive.com) as Jupyter Notebook
 
 Explore the hard data of COVID-19 risks and the case for vaccines in a quirky, nonjudgmental game.
 
+[Play Now](https://vaccineshow.billalive.com/)
+
 <br clear="both" />
 
 ## Coding
@@ -68,12 +70,22 @@ Explore the hard data of COVID-19 risks and the case for vaccines in a quirky, n
 ![R](https://img.shields.io/badge/r-%23276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330?style=for-the-badge&logo=javascript&logoColor="F7DF1E")
+![Emacs](https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed?style=for-the-badge&logo=docker&logoColor=white)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=billalive&layout=compact)
 
+Perl was my first love, but Python won me over. 
+
+I do love R's `tidyverse` (especially the [pipe](https://magrittr.tidyverse.org/reference/pipe.html)), but the Python module ecosystem feels orders of magnitude more diverse than what R has to offer. Though R offers excellent tools for data analysis, with Python, you get that plus *everything else*.
+
+I basically live in Emacs, the shell, and Firefox running [Vimium](https://vimium.github.io/). 
+
+
 <br clear="both" />
+
+
 
 
 ### Yarm
@@ -81,6 +93,9 @@ Explore the hard data of COVID-19 risks and the case for vaccines in a quirky, n
 <a href="https://yarm.readthedocs.io/">
 <img width="350" height="175" align="left" alt="Yarm" src="images/yarm_dark_featured.png">
 </a>
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=FFDD54)
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011?style=for-the-badge&logo=gnu-bash)
 
 Create reports easily from SQL queries on spreadsheets and CSVs, and configure it all in YAML. 
 
@@ -119,6 +134,11 @@ A Python command-line tool.
 <br clear="both" />
 
 ### Writing
+
+![Emacs](https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white)
+ ![Org Mode](https://img.shields.io/badge/orgmode-%2377AA99.svg?style=for-the-badge&logo=org&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
 #### Nonfiction: Tech Writing, Memory Improvement, For Writers
 
@@ -179,6 +199,8 @@ _Note: My real name is **Bill Powell**, but my (favorite) pen name is **Bill Al
 <a href="https://portfolio.billalive.com/community/">
 <img height="200" align="left" alt="Community" src="https://picsum.photos/id/441/200/200" />
 </a>
+
+<br clear="both" />
 
 <br clear="both" />
 
