@@ -76,17 +76,15 @@ Explore the hard data of COVID-19 risks and the case for vaccines in a quirky, n
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=billalive&layout=compact)
 
-Perl was my first love, but Python won me over. 
-
-I do love R's `tidyverse` (especially the [pipe](https://magrittr.tidyverse.org/reference/pipe.html)), but the Python module ecosystem feels orders of magnitude more diverse than what R has to offer. Though R offers excellent tools for data analysis, with Python, you get that plus *everything else*.
-
 I basically live in Emacs, the shell, and Firefox running [Vimium](https://vimium.github.io/). 
 
+Many years ago, Perl was my first love... but Python won me over. 
 
 <br clear="both" />
 
+I do enjoy R's `tidyverse` (especially the [pipe](https://magrittr.tidyverse.org/reference/pipe.html)), but the Python module ecosystem feels orders of magnitude more diverse than what R has to offer. Though R offers excellent tools for data analysis, with Python, you get that plus *everything else*.
 
-
+<br clear="both" />
 
 ### Yarm
 
@@ -133,14 +131,14 @@ A Python command-line tool.
 
 <br clear="both" />
 
-### Writing
+## Writing
 
 ![Emacs](https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white)
  ![Org Mode](https://img.shields.io/badge/orgmode-%2377AA99.svg?style=for-the-badge&logo=org&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
-#### Nonfiction: Tech Writing, Memory Improvement, For Writers
+### Nonfiction: Tech Writing, Memory Improvement, For Writers
 
 <a href="https://portfolio.billalive.com/nonfiction/tech-writing">
 <img height="300" align="left" alt="Transform Your Nonprofit's Website" src="images/transform-your-nonprofit-website.jpg" />
@@ -162,9 +160,7 @@ A Python command-line tool.
 > (a rare quality in a techie 🙂)."
 > <cite>Gower, Missouri</cite>
 
-### Fiction Writing
-
-#### Mystery, Humor, SF, Kids
+### Fiction: Mystery, Humor, SF, Kids
 
 <a href="https://billalive.com/">
 <img height="300" align="left" alt="Mysteries" src="images/mfa.jpg" />
@@ -184,9 +180,7 @@ A Python command-line tool.
 
 _Note: My real name is **Bill Powell**, but my (favorite) pen name is **Bill Alive**._
 
-### People Skills
-
-#### Customer Care, Art Director, Community
+### People Skills: Customer Care, Art Director, Community
 
 <a href="https://portfolio.billalive.com/customer-care/">
 <img height="200" align="left" alt="Customer Care" src="https://picsum.photos/id/870/200/200" />
