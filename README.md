@@ -10,6 +10,10 @@ Coding? Writing? Data Science? I offer you the complete package. Do you need:
 
 I’d love to help.
 
+I’ve been publishing my [writing](https://portfolio.billalive.com/nonfiction/) since high school in the late 90s, tinkering with [Linux](https://portfolio.billalive.com/code/#linux-enthusiast) since 2004, and making websites professionally since 2005.
+
+Along the way, I’ve researched and written articles and books on extreme [memory improvement](https://portfolio.billalive.com/nonfiction/memory/), published short stories, plays, and [seven novels](https://portfolio.billalive.com/novels/), written and acted in short films and podcasts, released open source [tools I’ve coded](https://portfolio.billalive.com/code/), and finally, discovered the field where I can use all my favorite skills at once: [data science](https://portfolio.billalive.com/data-science/).
+
 ## My Ideal Client
 
 A **mission-driven organization** working to solve a **global problem** that **doesn’t get enough attention.** 
@@ -25,12 +29,14 @@ A **mission-driven organization** working to solve a **global problem** that **d
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![edX](https://img.shields.io/badge/edX-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
 
 I hold a [Micromasters Certificate in Data Science](https://data.billalive.com/certification) from the University of California San Diego. 
+
+
 
 <br clear="both" />
 
@@ -120,6 +126,8 @@ A Python command-line tool.
 ![React](https://img.shields.io/badge/react-%2320232a?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6?style=for-the-badge&logo=css3)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+For over 15 years, my company, [Wineskin Websites](https://wineskinwebsites.com) has served non-profits and small businesses. 
 
 <blockquote>
 <p>
