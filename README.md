@@ -89,8 +89,6 @@ I do enjoy R's `tidyverse` (especially the [pipe](https://magrittr.tidyverse.org
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=billalive&layout=compact)
 
-<br clear="both" />
-
 ### Yarm
 
 <a href="https://yarm.readthedocs.io/">
@@ -126,7 +124,7 @@ A Python command-line tool.
 ![CSS3](https://img.shields.io/badge/css3-%231572B6?style=for-the-badge&logo=css3)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-For over 15 years, my company, [Wineskin Websites](https://wineskinwebsites.com) has served non-profits and small businesses. 
+For over 15 years, my company, [Wineskin Websites](https://wineskinwebsites.com), has served non-profits and small businesses. 
 
 <blockquote>
 <p>
@@ -145,7 +143,12 @@ For over 15 years, my company, [Wineskin Websites](https://wineskinwebsites.com)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
-### Nonfiction: Tech Writing, Memory Improvement, For Writers
+### Nonfiction
+
+My favorite themes: 
+[Tech Writing](https://portfolio.billalive.com/nonfiction/tech-writing), 
+[Memory Improvement](https://portfolio.billalive.com/nonfiction/memory), 
+[On Writing](https://portfolio.billalive.com/nonfiction/writers).
 
 <a href="https://portfolio.billalive.com/nonfiction/tech-writing">
 <img height="300" align="left" alt="Transform Your Nonprofit's Website" src="images/transform-your-nonprofit-website.jpg" />
@@ -161,13 +164,17 @@ For over 15 years, my company, [Wineskin Websites](https://wineskinwebsites.com)
 
 <br clear="both" />
 
-<br clear="both" />
-
 > "You are competent and honest and communicate very well  
 > (a rare quality in a techie 🙂)."
 > <cite>Gower, Missouri</cite>
 
-### Fiction: Mystery, Humor, SF, Kids
+### Fiction
+
+My favorite genres: 
+[Mysteries](https://billalive.com/),
+[Humor](https://billalive.com/),
+[Science Fiction and Fantasy](https://billalive.com/),
+and [Kids' Books](https://billalive.com/).
 
 <a href="https://billalive.com/">
 <img height="300" align="left" alt="Mysteries" src="images/mfa.jpg" />
@@ -183,7 +190,6 @@ For over 15 years, my company, [Wineskin Websites](https://wineskinwebsites.com)
 
 <br clear="both" />
 
-<br clear="both" />
 
 _Note: My real name is **Bill Powell**, but my (favorite) pen name is **Bill Alive**._
 
@@ -203,7 +209,6 @@ _Note: My real name is **Bill Powell**, but my (favorite) pen name is **Bill Al
 
 <br clear="both" />
 
-<br clear="both" />
 
 > “We have never found anyone who has understood what we wanted...
 > something simple but beautiful... You don’t realize how rare you are!”
