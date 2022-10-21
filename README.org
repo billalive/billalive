@@ -1,3 +1,0 @@
-#+title: Writer. Coder. Data Scientist.
-
-[[data.billalive.com][Jupyter Notebooks]]
