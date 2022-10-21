@@ -200,27 +200,17 @@ and [Kids' Books](https://portfolio.billalive.com/fiction/#kids'-books).
 
 _Note: My real name is **Bill Powell**, but my (favorite) pen name is **Bill Alive**._
 
-### People Skills: Customer Care, Art Director, Community
+## People Skills: Customer Care, Art Director, Community
 
-I’ve been taking care of my clients for over 15 years. Turns out, solving complex problems with grace and aplomb makes people happy. Really happy.
+I’ve been [taking care of my clients](https://portfolio.billalive.com/customer-care/) for over 15 years. Turns out, solving complex problems with grace and aplomb makes people happy. Really happy.
 
 > “We have never found anyone who has understood what we wanted...
 > something simple but beautiful... You don’t realize how rare you are!”
 > <cite>Kansas City, Missouri</cite>
 
-<a href="https://portfolio.billalive.com/customer-care/">
-<img height="200" align="left" alt="Customer Care" src="https://picsum.photos/id/870/200/200" />
-</a>
+Since 2017, I’ve had the privilege of working as [art director](https://portfolio.billalive.com/art-director/) with a fantastic designer, Christopher Capio.
 
-<a href="https://portfolio.billalive.com/art-director/">
-<img height="200" align="left" alt="Art Director" src="https://picsum.photos/id/1059/200/200" />
-</a>
-
-<a href="https://portfolio.billalive.com/community/">
-<img height="200" align="left" alt="Community" src="https://picsum.photos/id/441/200/200" />
-</a>
-
-<br clear="both" />
+I've also had the privilege of being part of multiple welcoming [communities](https://portfolio.billalive.com/community/)
 
 ## Contact
 
