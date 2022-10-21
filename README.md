@@ -80,15 +80,14 @@ Explore the hard data of COVID-19 risks and the case for vaccines in a quirky, n
 ![Git](https://img.shields.io/badge/git-%23F05033?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed?style=for-the-badge&logo=docker&logoColor=white)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=billalive&layout=compact)
 
-I basically live in Emacs, the shell, and Firefox running [Vimium](https://vimium.github.io/). 
+I basically live in Emacs, the shell, and Firefox running [Vimium](https://vimium.github.io/). Many years ago, Perl was my first love... but Python won me over. 
 
-Many years ago, Perl was my first love... but Python won me over. 
+I do enjoy R's `tidyverse` (especially the [pipe](https://magrittr.tidyverse.org/reference/pipe.html)), but the Python module ecosystem feels orders of magnitude more diverse than what R has to offer. Though R offers excellent tools for data analysis, with Python, you get that plus *everything else*.
 
 <br clear="both" />
 
-I do enjoy R's `tidyverse` (especially the [pipe](https://magrittr.tidyverse.org/reference/pipe.html)), but the Python module ecosystem feels orders of magnitude more diverse than what R has to offer. Though R offers excellent tools for data analysis, with Python, you get that plus *everything else*.
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=billalive&layout=compact)
 
 <br clear="both" />
 
