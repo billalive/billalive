@@ -14,6 +14,13 @@ I’ve been publishing my [writing](https://portfolio.billalive.com/nonfiction/)
 
 Along the way, I’ve researched and written articles and books on extreme [memory improvement](https://portfolio.billalive.com/nonfiction/memory/), published short stories, plays, and [seven novels](https://portfolio.billalive.com/novels/), written and acted in short films and podcasts, released open source [tools I’ve coded](https://portfolio.billalive.com/code/), and finally, discovered the field where I can use all my favorite skills at once: [data science](https://portfolio.billalive.com/data-science/).
 
+- [↳ Data Science](#data-science) 
+- [↳ Coding](#coding) 
+- [↳ Web Development](#web-development) 
+- [↳ Writing](#writing) 
+- [↳ People Skills](#people-skills-customer-care-art-director-community)
+- [↳ Contact](#contact)
+
 ## My Ideal Client
 
 A **mission-driven organization** working to solve a **global problem** that **doesn’t get enough attention.** 
@@ -212,4 +219,4 @@ And I'm lucky to participate in multiple [communities](https://portfolio.billali
 
 ## Contact
 
-I'd love to hear from you! Contact me at `public` [at] `billalive.com`, or use [this form](https://billalive.com/contact/).
+I'd love to hear from you! Contact me at `public` [at] `billalive.com`, or use [this form](https://portfolio.billalive.com/contact/).
