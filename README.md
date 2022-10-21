@@ -124,7 +124,7 @@ A Python command-line tool.
 ![CSS3](https://img.shields.io/badge/css3-%231572B6?style=for-the-badge&logo=css3)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-For over 15 years, my company, [Wineskin Websites](https://wineskinwebsites.com), has served non-profits and small businesses. 
+For **over 15 years**, my company, [Wineskin Websites](https://wineskinwebsites.com), has served non-profits and small businesses. 
 
 <blockquote>
 <p>
@@ -202,6 +202,12 @@ _Note: My real name is **Bill Powell**, but my (favorite) pen name is **Bill Al
 
 ### People Skills: Customer Care, Art Director, Community
 
+I’ve been taking care of my clients for over 15 years. Turns out, solving complex problems with grace and aplomb makes people happy. Really happy.
+
+> “We have never found anyone who has understood what we wanted...
+> something simple but beautiful... You don’t realize how rare you are!”
+> <cite>Kansas City, Missouri</cite>
+
 <a href="https://portfolio.billalive.com/customer-care/">
 <img height="200" align="left" alt="Customer Care" src="https://picsum.photos/id/870/200/200" />
 </a>
@@ -214,14 +220,7 @@ _Note: My real name is **Bill Powell**, but my (favorite) pen name is **Bill Al
 <img height="200" align="left" alt="Community" src="https://picsum.photos/id/441/200/200" />
 </a>
 
-<br clear="both" />
-
-<br clear="both" />
-
-> “We have never found anyone who has understood what we wanted...
-> something simple but beautiful... You don’t realize how rare you are!”
-> <cite>Kansas City, Missouri</cite>
 
 ## Contact
 
-Contact Bill at `public` [at] `billalive.com`, or use [this form](https://billalive.com/contact/).
+I'd love to hear from you! Contact me at `public` [at] `billalive.com`, or use [this form](https://billalive.com/contact/).
