@@ -68,7 +68,7 @@ Explore the hard data of COVID-19 risks and the case for vaccines in a quirky, n
 
 ## Coding
 
-<img width="350" height="350" align="left" alt="Code" src="images/code.png">
+<a href="https://portfolio.billalive.com/code/"><img width="350" height="350" align="left" alt="Code" src="images/code.png"></a>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=FFDD54)
 ![Perl](https://img.shields.io/badge/perl-%2339457E?style=for-the-badge&logo=perl)
@@ -111,7 +111,7 @@ A Python command-line tool.
 
 ## Web Development
 
-<img width="350" height="350" align="left" alt="Code" src=" images/web-development.png">
+<a href="https://portfolio.billalive.com/web-dev/"><img width="350" height="350" align="left" alt="Code" src=" images/web-development.png"></a>
 
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9?style=for-the-badge&logo=WordPress)
 ![Hugo](https://img.shields.io/badge/Hugo-black?style=for-the-badge&logo=Hugo)
@@ -136,7 +136,7 @@ For **over 15 years**, my company, [Wineskin Websites](https://wineskinwebsites.
 ## Writing
 
 ![Emacs](https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white)
- ![Org Mode](https://img.shields.io/badge/orgmode-%2377AA99.svg?style=for-the-badge&logo=org&logoColor=white)
+![Org Mode](https://img.shields.io/badge/orgmode-%2377AA99.svg?style=for-the-badge&logo=org&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
