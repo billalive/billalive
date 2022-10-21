@@ -206,11 +206,12 @@ I’ve been [taking care of my clients](https://portfolio.billalive.com/customer
 
 > “We have never found anyone who has understood what we wanted...
 > something simple but beautiful... You don’t realize how rare you are!”
+
 > <cite>Kansas City, Missouri</cite>
 
 Since 2017, I’ve had the privilege of working as [art director](https://portfolio.billalive.com/art-director/) with a fantastic designer, Christopher Capio.
 
-I've also had the privilege of being part of multiple welcoming [communities](https://portfolio.billalive.com/community/)
+And I'm lucky to participate in multiple [communities](https://portfolio.billalive.com/community/).
 
 ## Contact
 
