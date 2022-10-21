@@ -116,6 +116,7 @@ A Python command-line tool.
 </blockquote>
 
 
+<br clear="both" />
 
 ### Writing
 
@@ -135,6 +136,8 @@ A Python command-line tool.
 
 <br clear="both" />
 
+<br clear="both" />
+
 > "You are competent and honest and communicate very well  
 > (a rare quality in a techie 🙂)."
 > <cite>Gower, Missouri</cite>
@@ -143,17 +146,19 @@ A Python command-line tool.
 
 #### Mystery, Humor, SF, Kids
 
-<a href="https://portfolio.billalive.com/fiction/">
+<a href="https://billalive.com/">
 <img height="300" align="left" alt="Mysteries" src="images/mfa.jpg" />
 </a>
 
-<a href="https://portfolio.billalive.com/fiction/">
+<a href="https://billalive.com/">
 <img height="300" align="left" alt="Humor" src="images/rsw-1.png" />
 </a>
 
-<a href="https://portfolio.billalive.com/fiction/">
+<a href="https://billalive.com/">
 <img height="300" align="left" alt="Kids" src="images/how-talk-rock.png" />
 </a>
+
+<br clear="both" />
 
 <br clear="both" />
 
